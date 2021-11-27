@@ -1,0 +1,21 @@
+
+
+.btn-primary{
+    color: white;
+    background-color: purple;
+    border-color: purple;
+}
+.btn-primary:hover{
+    color: white;
+    background-color: rgb(71, 1, 71);
+    border-color: rgb(71, 1, 71);
+}
+.btn-secondary{
+    color:purple;
+    background-color: white;
+    border-color: purple;
+    
+}
+.btn{
+    border-radius:0rem;
+}
